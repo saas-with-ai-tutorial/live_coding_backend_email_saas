@@ -1,2 +1,6 @@
 litellm
 python-dotenv
+pytest
+pytest-mock
+pytest-cov
+pytest-asyncio
